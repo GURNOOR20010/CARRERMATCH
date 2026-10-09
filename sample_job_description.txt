@@ -1,0 +1,12 @@
+Data Analyst Intern
+
+Responsibilities:
+- Clean and analyze datasets using Python and Pandas.
+- Write SQL queries to extract and transform data.
+- Build dashboards using Power BI or Tableau.
+- Use Excel and statistics to identify trends.
+- Communicate insights with charts and data visualizations.
+- Git and GitHub familiarity is a plus.
+
+Requirements:
+Python, SQL, Excel, Pandas, Power BI, statistics, data analysis, data cleaning, Git, Tableau.
